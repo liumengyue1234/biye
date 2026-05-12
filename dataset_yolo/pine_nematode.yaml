@@ -1,0 +1,13 @@
+# YOLO 数据集配置文件 - 松材线虫病检测
+# 松材线虫病 CT 影像检测系统
+
+path: C:/Users/86157/WorkBuddy/2026-05-12-task-2/dataset_yolo
+train: train/images
+val: val/images
+
+# 类别数量
+nc: 1
+
+# 类别名称
+names:
+  0: Vector_insect
