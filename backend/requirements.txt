@@ -1,0 +1,12 @@
+# 松材线虫病检测系统后端依赖
+Flask==3.0.3
+Flask-Cors==4.0.1
+flask-cors
+numpy==1.26.4
+opencv-python==4.8.1.78
+opencv-python-headless==4.11.0.86
+torch==2.11.0
+torchvision==0.26.0
+ultralytics==8.3.0
+Pillow==10.0.0
+Werkzeug==3.0.1
